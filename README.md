@@ -1,2 +1,4 @@
 # files
-Reference genomes and related files used across repos and analyses
+Reference genomes and other files used across repos and analyses
+
+The files are hosted as part of 'releases' of this repo, not checked in.
